@@ -1,0 +1,2 @@
+﻿Column 1
+Dim i As LongWith ActiveDocumentFor i = 1 To .InlineShapes.CountIf PointsToCentimeters(.InlineShapes(i).Width) > 15 ThenWith .InlineShapes(i).LockAspectRatio = msoTrue.Width = CentimetersToPoints(15)End WithEnd IfNext iEnd With

@@ -1,0 +1,8 @@
+﻿Action,Shortcut
+Apply italic formatting to text.,Ctrl+I
+Apply underline formatting to text.,Ctrl+U
+Decrease the font size by 1 point.,Ctrl+[
+Increase the font size by 1 point.,Ctrl+]
+"Redo the previous action, if possible.",Ctrl+Y
+Adjust the zoom magnification.,"Alt+W, Q, then tab in Zoom dialog box to the value you want."
+Apply bold formatting to text.,Ctrl+B

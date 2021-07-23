@@ -1,0 +1,3 @@
+# F2 alone: moves the selected text or graphic. Use the arrow keys to place the cursor where you want to move the text or graphic, and then press Enter to move, or press Esc to cancel.   Shift+F2: copies the selected text or graphic. Use the arrow keys to place the cursor where you want to copy the text or graphic, and then press Enter to copy, or press Esc to cancel.   Ctrl+F2: displays the print preview area on the Print tab in the Backstage view.   Alt+Shift+F2: saves the document.   Ctrl+Alt+F2: displays the Open dialog.
+
+F1: October 2, 2020 2:00 AM (GMT)

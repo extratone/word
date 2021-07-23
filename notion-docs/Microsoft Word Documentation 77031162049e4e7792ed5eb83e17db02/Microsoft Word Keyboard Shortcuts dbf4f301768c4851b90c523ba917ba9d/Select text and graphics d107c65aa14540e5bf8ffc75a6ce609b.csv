@@ -1,0 +1,5 @@
+﻿Select from the current position to the beginning of the current line.,Shift+Home
+Select from the current position to the beginning of the current paragraph.,Ctrl+Shift+Up arrow key
+Select from the current position to the end of the current paragraph.,Ctrl+Shift+Down arrow key
+Select from the current position to the beginning of the document.,Ctrl+Shift+Home
+Select from the current position to the end of the document.,Ctrl+Shift+End

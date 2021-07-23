@@ -1,0 +1,3 @@
+# F7 alone: displays the Editor task pane to check spelling and grammar in the document or the selected text.   Shift+F7: displays the Thesaurus task pane.   Ctrl+Shift+F7: updates the linked information in a Word source document.   Alt+F7: finds the next spelling or grammatical error.   Alt+Shift+F7: in Word 2013 and newer, displays the Translator task pane. In Word 2007 and 2010, displays the Research task pane.
+
+F1: October 2, 2020 7:00 AM (GMT)

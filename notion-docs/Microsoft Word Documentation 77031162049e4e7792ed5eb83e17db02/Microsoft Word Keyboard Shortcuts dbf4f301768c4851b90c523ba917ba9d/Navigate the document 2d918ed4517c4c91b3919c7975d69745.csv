@@ -1,0 +1,4 @@
+﻿Move the cursor to the bottom of the screen.,Ctrl+Alt+Page down
+Move the cursor to the top of the next page.,Ctrl+Page down
+Move the cursor to the location of the last revision made before the document was last closed.,"Shift+F5, immediately after opening the document."
+Cycle through the locations of the four previous changes made to the document.,Ctrl+Alt+Z

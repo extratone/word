@@ -1,0 +1,4 @@
+﻿Move the selected content to a specific location.,"F2, move the cursor to the destination, and then press Enter."
+Copy the selected content to a specific location.,"Shift+F2, move the cursor to the destination, and then press Enter."
+Insert an AutoText block.,"The first few characters of the AutoText block, and then press Enter when the ScreenTip appears."
+Copy the header or footer used in the previous section of the document.,Alt+Shift+R

@@ -1,0 +1,3 @@
+# Assign a macro to an object, shape or graphic
+
+There are several different ways you can run a macro, such as using a shortcut key, graphic object, Quick Access Toolbar, a button, or even when opening a workbook.: On a worksheet, right-click the object, graphic, shape, or the item to which you want to assign an existing macro, and then click Assign Macro.    In the Assign Macro box, click the macro that you want to assign.

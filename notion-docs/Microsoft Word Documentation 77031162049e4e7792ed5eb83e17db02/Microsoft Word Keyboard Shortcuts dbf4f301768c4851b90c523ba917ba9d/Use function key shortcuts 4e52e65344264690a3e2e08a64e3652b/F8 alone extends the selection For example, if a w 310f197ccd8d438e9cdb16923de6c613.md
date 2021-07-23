@@ -1,0 +1,3 @@
+# F8 alone: extends the selection. For example, if a word is selected, the selection size is extended to one sentence.   Shift+F8: reduces the selection. For example, if a paragraph is selected, the selection size is reduced to one sentence.   Ctrl+Shift+F8: turns extend selection mode on and off. In the extend selection mode, the arrow keys extend the selection.   Alt+F8: displays the Macro dialog to create, run, edit, or delete a macro.
+
+F1: October 2, 2020 8:00 AM (GMT)

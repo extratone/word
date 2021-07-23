@@ -1,0 +1,3 @@
+﻿Start extending the selection.,"In the extend selection mode, clicking a location in the document extends the current selection to that location."
+Select the nearest character to the left or right.,"F8, Left or Right arrow key"
+Expand the selection.,"F8 repeatedly to expand the selection to the entire word, sentence, paragraph, section, and document."
